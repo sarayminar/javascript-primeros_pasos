@@ -3,7 +3,7 @@
 /*Comentarios
 de varias lineas*/
 
-// VARIABLES
+// VARIABLES 📝
 
 // const ---> variables cuyo valor no cambiará después de su asignación inicial
 const name="Celia"
@@ -24,7 +24,7 @@ console.log(direction)
 
 
 
-// ARRAYS
+// ARRAYS 📚
 // [ ] - corchetes
 const coders = ["Julia", "Natalia", "Ángel", "Rafael"]
 const fruits = ["manzana", "pera", "fresa", "mango"]
@@ -52,7 +52,7 @@ console.log(ruralCoder)
 
 
 
-// OBJETOS
+// OBJETOS🧰
 // { } - llaves
 // Nombre de objeto - Noe
 const noe = {

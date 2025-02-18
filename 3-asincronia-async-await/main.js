@@ -1,6 +1,6 @@
 
 
-// FUNCIONES ASINCRONAS
+// FUNCIONES ASINCRONAS ⏳
 // Permiten esperar a que algo termine (como una llamada a la APIs) sin detener todo el programa.
 
 // Ejercicio 1️⃣
