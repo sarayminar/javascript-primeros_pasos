@@ -1,5 +1,6 @@
 
 // DOM 🌐
+
 // // cambiamos el texto del elemento con la clase "parrafo" por el texto que contenga la clase
 document.querySelector(".parrafo").textContent = "hago magia y cambio cosas"
 const hola = document.querySelector("parrafo")
