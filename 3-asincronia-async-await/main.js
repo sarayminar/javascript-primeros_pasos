@@ -46,9 +46,7 @@ conseguirTitulos()
 
 
 
-
-
-// // Async/Await
+// Async/Await
 
     // la palabra clave async indica que esta función es asíncrona, lo que significa que puede usar await dentro de ella.
     async function hacerAlgo(){ 
@@ -57,7 +55,7 @@ conseguirTitulos()
         console.log("Ya terminé de hacer algo.");
 
     }
-
+    
     hacerAlgo();
 
 

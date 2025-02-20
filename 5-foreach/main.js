@@ -1,4 +1,6 @@
 
+// Usamos el forEach para recorrer los elementos de un array y ejecutar una función en cada uno de ellos.  
+
 
 // Ejemplo 1️⃣
 const frutas = ["manzana", "pera", "melon", "melocoton", "naranja"];
